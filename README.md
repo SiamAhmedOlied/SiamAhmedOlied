@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">My name is Siam Ahmed Olied. I'm an Ethical Hacker, Frontend Developer, And Data Analyst from Bangladesh.</h2>
+<h2 align="center">My name is Siam Ahmed Olied. I'm an Ethical Hacker, Frontend Developer, And Data Analyst from Brahmanbaria, Bangladesh.</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h6 align="left">✨ Creating AI Models and Finding bugs in various companies Since 2022<br>📚 I'm currently learning Advanced Bug Bounty Hunting and Advanced Data Analysis.<br>🎯 Goals: To be a Best Hacker And GM in Chess<br>🎲 Fun fact: I'm a student of class XII, and I'm only 18 year old😁😁😁😁</h6>
+<h6 align="left">✨ Creating AI Models and Finding bugs in various companies Since 2022<br>📚 I'm currently learning Advanced Bug Bounty Hunting and Advanced Data Analysis.<br>🎯 Goals: To be the Best Hacker And GM in Chess<br>🎲 Fun fact: I'm a student of class XII, and I'm only 18 years old😁😁😁😁</h6>
 
 ###
 
